@@ -1,4 +1,4 @@
-<img src="https://github.com/zaiddabaeen/trialize/blob/master/ZF2/public/images/shorten_small.png?raw=true"/>
+<img src="https://github.com/zaiddabaeen/Trialize/blob/master/public/images/shorten_small.png?raw=true"/>
 # Trialize
 ## Zend Framework 2 Project and Android library
 Manage your trial Android apps.
